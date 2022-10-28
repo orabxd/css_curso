@@ -1,0 +1,115 @@
+﻿1
+00:00:00,000 --> 00:00:04,990
+Sean todos bienvenido a este curso de css3
+
+2
+00:00:05,000 --> 00:00:09,290
+en este video aprenderemos sobre los formatos de texto 
+
+3
+00:00:09,300 --> 00:00:13,790
+en realidad, muchísimas formas de dar formato a nuestro texto
+
+4
+00:00:13,800 --> 00:00:18,390
+como por ejemplo en este caso estamos aplicando cierto formato a nuestro título
+
+5
+00:00:18,400 --> 00:00:23,390
+definimos un color y en realidad podemos darle múltiples formatos
+
+6
+00:00:23,400 --> 00:00:28,990
+también definimos una caja en la parte inferior
+
+7
+00:00:29,000 --> 00:00:30,690
+esta como un formato diferente.
+
+8
+00:00:32,220 --> 00:00:37,810
+A la del título y aplicando un pequeño background
+
+9
+00:00:37,800 --> 00:00:41,790
+para efectos de este video creamos con anterioridad una carpeta
+
+10
+00:00:41,800 --> 00:00:47,290
+ llamada curso, dentro de esta creamos un archivo llamado index.html 
+
+11
+00:00:47,300 --> 00:00:51,590
+y también una carpeta llamada ccs con un archivo llamado estilos.css
+
+12
+00:00:51,600 --> 00:00:56,590
+cabe resaltar que esto es por buenas prácticas
+
+13
+00:00:56,600 --> 00:01:01,590
+en nuestro archivo index colocaremos un signo de signo de admiracion !
+
+14
+00:01:01,600 --> 00:01:07,690
+presionaremos tab y el automáticamente nos llenara la plantilla base
+
+15
+00:01:07,700 --> 00:01:15,790
+de un html cambiaremos nuestro  título colocaremos formato de texto y
+
+16
+00:01:15,800 --> 00:01:21,290
+crearemos una etiqueta h1 la cual tendrá un título llamado
+
+17
+00:01:21,300 --> 00:01:26,390
+también formato de texto debajo
+
+18
+00:01:26,400 --> 00:01:27,390
+crearemos un 
+
+19
+00:01:27,400 --> 00:01:30,890
+contenedor div, el cual tendrá una etiqueta de p
+
+20
+00:01:32,100 --> 00:01:34,790
+Y esta etiqueta de p tendrá un texto.
+
+21
+00:01:35,900 --> 00:01:40,690
+Cómo podemos rellenar un texto muy rápido con una extension
+
+22
+00:01:40,700 --> 00:01:45,690
+llamada Lorem ipsun ingresamos lorem
+
+23
+00:01:45,700 --> 00:01:50,890
+presionamos tab y el automatimente nos llenará un texto rápido 
+
+24
+00:01:50,910 --> 00:01:52,590
+para visualizar esto en nuestro navegador
+
+25
+00:01:52,630 --> 00:01:57,920
+debemos darle un click derecho, open with live server
+
+26
+00:01:57,960 --> 00:02:02,180
+y el automaticamente, nos mostrara el resultado
+
+27
+00:02:02,200 --> 00:02:04,700
+de nuestra plantilla de html
+
+28
+00:02:04,940 --> 00:02:07,270
+ya tenemos nuestra plantilla creada,
+
+29
+00:02:07,310 --> 00:02:13,200
+vamos al siguiente video para aplicarle nuestros estilos css.

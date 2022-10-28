@@ -1,0 +1,220 @@
+﻿1
+00:00:00,280 --> 00:00:02,880
+Bienvenidos a este curso de CSS3
+
+2
+00:00:04,130 --> 00:00:06,080
+un curso el cual estaremos llevando a cabo las diferentes
+
+3
+00:00:06,100 --> 00:00:09,290
+etapas para aprender de este lenguaje de diseño gráfico,
+
+4
+00:00:09,300 --> 00:00:13,530
+el cual también es conocido como hoja de estilo en cascada.
+
+5
+00:00:13,660 --> 00:00:18,080
+Este nos permite definir y crear presentaciones de un documento estructurado escrito
+
+6
+00:00:18,110 --> 00:00:22,000
+en un lenguaje de marcado como lo es html, cabe resaltar
+
+7
+00:00:22,000 --> 00:00:25,490
+de que este curso va de la mano con html,
+
+8
+00:00:25,500 --> 00:00:28,790
+se les recomienda revisar los cursos anteriores de html
+
+9
+00:00:28,800 --> 00:00:32,689
+para que tengan un conocimiento sobre lo que estaremos trabajando
+durante este curso.
+
+10
+00:00:32,700 --> 00:00:36,290
+Si ya tienen las bases y entienden
+
+11
+00:00:36,300 --> 00:00:39,540
+cómo trabajar con html comencemos.
+
+12
+00:00:39,880 --> 00:00:44,880
+Bueno, primero que todo necesitaremos lo que es un editor de texto. En este caso
+
+13
+00:00:44,900 --> 00:00:48,130
+yo utilizo lo que es visual Studio code
+
+14
+00:00:48,280 --> 00:00:49,880
+si en dicho caso no lo tienes,
+
+15
+00:00:49,900 --> 00:00:53,960
+puedes dirigirte al buscador escribe Visual Studio Code
+
+16
+00:00:58,800 --> 00:01:00,450
+entras aquí en donde dice Download
+
+17
+00:01:01,790 --> 00:01:05,780
+Y aquí puedes descargar el visual dependiendo tu sistema operativo
+
+18
+00:01:06,700 --> 00:01:08,480
+en mi caso como ya lo tengo instalado,
+
+19
+00:01:08,500 --> 00:01:09,870
+no es necesario.
+
+20
+00:01:11,410 --> 00:01:15,610
+Bueno, una vez de que tengamos nuestro visual estudio instalado, procederemos a instalar
+
+21
+00:01:16,000 --> 00:01:19,390
+digamos unas extensión las cuales no son necesarias
+
+22
+00:01:20,420 --> 00:01:27,560
+pero digamos que nos ayuda a facilitar algunas tareas al momento de que estemos escribiendo código css y html.
+
+23
+00:01:27,900 --> 00:01:28,390
+en este caso
+
+24
+00:01:28,400 --> 00:01:31,260
+nos dirigimos acá donde dice extensiones
+
+25
+00:01:31,650 --> 00:01:34,280
+y, instalamos las respectivas extensiones
+
+26
+00:01:35,330 --> 00:01:39,310
+en este caso tenemos la primera que sería Prettier
+
+27
+00:01:39,580 --> 00:01:40,780
+Como pueden ver
+
+28
+00:01:40,800 --> 00:01:42,290
+ya la tengo previamente instalada.
+
+29
+00:01:45,220 --> 00:01:46,650
+la segunda sería lo que es
+
+30
+00:01:47,850 --> 00:01:48,840
+intellisence
+
+31
+00:01:49,800 --> 00:01:50,590
+for css
+
+32
+00:01:53,200 --> 00:01:55,690
+también la tengo ya instalado cómo pueden ver.
+
+33
+00:01:57,100 --> 00:01:59,690
+La tercera sería lo que él es css peek
+
+34
+00:02:03,030 --> 00:02:04,790
+también la tengo ya instalada
+
+35
+00:02:05,230 --> 00:02:06,360
+y por último
+
+36
+00:02:06,560 --> 00:02:08,560
+seria lo que es un  live server
+
+37
+00:02:08,600 --> 00:02:11,890
+el cual un servidor local que no permite ejecutar nuestro código
+
+38
+00:02:11,900 --> 00:02:12,890
+en tiempo real.
+
+39
+00:02:16,830 --> 00:02:18,120
+Luego de instalar
+
+40
+00:02:18,890 --> 00:02:20,380
+todas estas extenciones también digamos,
+
+41
+00:02:20,400 --> 00:02:23,490
+procederemos a crear nuestra carpeta donde estaremos almacenando lo que
+
+42
+00:02:23,500 --> 00:02:25,490
+vayamos desarrollando durante este curso.
+
+43
+00:02:25,500 --> 00:02:29,190
+Yo les recomiendo crearse una carpetica ya sea en
+
+44
+00:02:29,200 --> 00:02:30,040
+el escritorio
+
+45
+00:02:30,240 --> 00:02:32,240
+o donde ustedes quieran
+
+46
+00:02:32,840 --> 00:02:33,960
+que se llame cursos
+
+47
+00:02:34,290 --> 00:02:36,470
+y, dentro de esa carpeta cursos
+
+48
+00:02:36,600 --> 00:02:40,690
+tendremos lo que es una carpeta que dice css la cual estaremos
+
+49
+00:02:41,740 --> 00:02:45,440
+almacenando todo el desarrollo que llevemos durante este curso.
+
+50
+00:02:45,870 --> 00:02:48,430
+ya que tengamos digamos nuestra carpeta.
+
+51
+00:02:48,830 --> 00:02:52,180
+Ya estamos listo para comenzar a desarrollar. En el próximo
+
+52
+00:02:52,200 --> 00:02:52,490
+video
+
+53
+00:02:52,500 --> 00:02:55,590
+veremos cómo crear nuestro primer archivo y comenzar a darle
+
+54
+00:02:55,600 --> 00:02:57,540
+estilo css.
+
+55
+00:02:57,530 --> 00:02:59,980
+Los espero en el próximo video.

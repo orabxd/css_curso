@@ -1,0 +1,239 @@
+﻿1
+00:00:00,000 --> 00:00:02,490
+Muy buenas a todos en este video vamos a ver la
+
+2
+00:00:02,500 --> 00:00:06,590
+característica de Flex Direction dónde vamos a dar la dirección
+
+3
+00:00:06,600 --> 00:00:10,990
+de manera de columna o de fila a los elementos hijos en un
+
+4
+00:00:11,000 --> 00:00:18,690
+elemento padre, primeramente vamos a crear un archivo index.html
+
+5
+00:00:18,700 --> 00:00:24,790
+donde vamos a crear la estructura básica de html5, aquí
+
+6
+00:00:24,800 --> 00:00:28,490
+dentro de Body vamos a crear un contenedor que le
+
+7
+00:00:28,500 --> 00:00:30,990
+vamos a dar el nombre de la clase padre y
+
+8
+00:00:31,000 --> 00:00:34,790
+vamos a crear varios contenedores hijos,
+
+9
+00:00:34,800 --> 00:00:37,590
+que le vamos a poner la clase hijos,
+
+10
+00:00:37,600 --> 00:00:39,190
+hijos,
+
+11
+00:00:39,200 --> 00:00:44,690
+vamos a crear varios
+
+12
+00:00:44,700 --> 00:00:51,190
+un número que sean 6, los enumeramos 123456
+
+13
+00:00:51,200 --> 00:00:56,390
+de igual forma, vamos a crear un archivo estilo.css
+
+14
+00:00:56,400 --> 00:01:02,690
+donde le vamos a dar el estilo a estos elementos, Bueno aquí en
+
+15
+00:01:02,700 --> 00:01:07,890
+el Index vamos hacer un link a ese archivo estilo.css
+
+16
+00:01:09,690 --> 00:01:13,050
+ok,  yo trabajo con la extensión de un servidor
+
+17
+00:01:13,100 --> 00:01:16,590
+ para ver el estilo y la ejecución que vamos a ir haciendo
+
+18
+00:01:16,600 --> 00:01:20,190
+en nuestro archivo lo vamos a poner aquí para ver cómo se va
+
+19
+00:01:20,200 --> 00:01:24,490
+editando, vamos a ir ahora al archivo estilo.css,
+
+20
+00:01:24,500 --> 00:01:28,290
+y vamos a llamar a la clase padre que creamos en
+
+21
+00:01:28,300 --> 00:01:32,190
+el archivo Index también vamos a llamar a la clase
+
+22
+00:01:32,200 --> 00:01:37,090
+hijos igual forma la creamos en el archivo en index
+
+23
+00:01:37,100 --> 00:01:41,290
+en padre vamos a darle un color de fondo Perdón un color
+
+24
+00:01:41,300 --> 00:01:46,390
+de fondo background color que sea un poco pálido para
+
+25
+00:01:46,400 --> 00:01:50,590
+ver los ejemplos, un poco pálido y también en la clase,
+
+26
+00:01:50,600 --> 00:01:53,590
+hijo también vamos a llamar el background Pero ahora con
+
+27
+00:01:53,600 --> 00:01:56,190
+un color un poco más fuerte para ver el ejemplo
+
+28
+00:01:56,210 --> 00:01:59,800
+en la clase padre vamos a poner un padding
+
+29
+00:01:59,900 --> 00:02:04,990
+de 15 píxeles, de igual forma poner un Border de
+
+30
+00:02:05,000 --> 00:02:10,590
+un píxel que sea sólido de color negro
+
+31
+00:02:10,600 --> 00:02:13,590
+Black ok, en la clase hijo,
+
+32
+00:02:13,600 --> 00:02:18,790
+vamos a  seguir poniéndole una anchura de 50
+
+33
+00:02:18,800 --> 00:02:24,090
+píxeles también va a poner una altura de 50 píxeles
+
+34
+00:02:24,100 --> 00:02:29,090
+también vamos a colocar un font size o tamaño de la letra
+
+35
+00:02:29,100 --> 00:02:34,390
+de 20
+
+36
+00:02:34,400 --> 00:02:40,790
+de píxeles y  también vamos a poner un margin margin
+
+37
+00:02:40,800 --> 00:02:46,290
+de 15 píxeles, de igual forma vamos a poner un borde de
+
+38
+00:02:46,300 --> 00:02:51,390
+un píxel que sea sólido, que sea Sólido
+
+39
+00:02:51,400 --> 00:02:56,190
+y que sea negro, vamos a guardar y así se
+
+40
+00:02:56,200 --> 00:02:59,690
+nos va a crear en el navegador el estilo que vimos para
+
+41
+00:02:59,900 --> 00:03:02,970
+Mostrar el ejemplo de flex-direction 
+
+42
+00:03:04,780 --> 00:03:10,270
+Ahora para trabajar con flex vamos a escriblir, display:flex
+
+43
+00:03:10,470 --> 00:03:12,470
+Y si guardamos miramos
+
+44
+00:03:12,580 --> 00:03:16,950
+que el navegador, ya reconoce que estamos trabajando con flex box
+
+45
+00:03:17,000 --> 00:03:22,090
+ahora para ver la propiedad de  flex-direction, vamos a escribir flex-direction
+
+46
+00:03:22,100 --> 00:03:25,490
+y vamos a poner la primera propiedad que nos sales Qué
+
+47
+00:03:25,500 --> 00:03:26,090
+es columna.
+
+48
+00:03:26,100 --> 00:03:28,090
+Ahora miramos Qué elemento,
+
+49
+00:03:28,100 --> 00:03:30,890
+hijo se acomodaron de manera de columna.
+
+50
+00:03:30,900 --> 00:03:34,990
+Ahora va a poner esa misma propiedad pero de manera
+
+51
+00:03:35,000 --> 00:03:35,790
+al revés.
+
+52
+00:03:35,800 --> 00:03:39,990
+Ahora miramos que le item número 6 está de primero y el item
+
+53
+00:03:40,000 --> 00:03:43,190
+número uno está de último, también está el valor que
+
+54
+00:03:43,200 --> 00:03:47,490
+siempre viene por defecto Qué es fila, guardamos y
+
+55
+00:03:47,500 --> 00:03:49,790
+mira lo que está en el valor por defecto que
+
+56
+00:03:49,800 --> 00:03:56,890
+está y también existe Row reverse reverse,
+
+57
+00:03:56,900 --> 00:04:01,090
+qué sirve como la función de columna para  poner la fila
+
+58
+00:04:01,110 --> 00:04:04,200
+ahora al revés y podemos ver a ahora el item número
+
+59
+00:04:04,200 --> 00:04:06,590
+6 hijo está de primero y el ítem,
+
+60
+00:04:06,600 --> 00:04:08,590
+número uno hijo está de último.
